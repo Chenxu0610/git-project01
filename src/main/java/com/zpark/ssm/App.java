@@ -13,6 +13,7 @@ public class App {
         System.out.println("Hello Git! cx master first Push GitHub!");
         
         System.out.println("test pull from GitHub!");
+        System.out.println("test fetch from GitHub!");
     }
 
 }
