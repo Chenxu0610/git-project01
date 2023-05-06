@@ -11,6 +11,8 @@ public class App {
         System.out.println("Hello Git! cx hotfix first modify!");
         System.out.println("Hello Git! cx master second commit!");
         System.out.println("Hello Git! cx master first Push GitHub!");
+        
+        System.out.println("test pull from GitHub!");
     }
 
 }
